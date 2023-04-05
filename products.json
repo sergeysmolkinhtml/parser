@@ -1,0 +1,389 @@
+[
+    {
+        "name": "Напій вівсяний органічний Joya 1 л",
+        "price_new": "105.00 ₴",
+        "price_old": "140.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Оливки зелені Белла ді Черіньйола в розсолі Lombardi 290 г",
+        "price_new": "129.00 ₴",
+        "price_old": "161.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Крупа вівсяна плющена органічна Galeks Agro 0,8 кг",
+        "price_new": "75.00 ₴",
+        "price_old": "83.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Гречка ядриця швидкорозварювана органічна Galeks Agro 1 кг",
+        "price_new": "95.00 ₴",
+        "price_old": "120.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Рушники паперові двошарові з вторсировини DeLaMark 2 рулони",
+        "price_new": "92.00 ₴",
+        "price_old": "108.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Папір туалетний двошаровий з вторсировини DeLaMark 6 рулонів",
+        "price_new": "106.00 ₴",
+        "price_old": "125.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Засіб для прання безфосфатний рідкий концентрат Baby DeLaMark 1 л",
+        "price_new": "179.00 ₴",
+        "price_old": "210.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Мило для прання \"Frеsh\" DeLaMark 110 г",
+        "price_new": "74.00 ₴",
+        "price_old": "87.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Порошок безфосфатний концентрат Baby DeLaMark 1 кг",
+        "price_new": "210.00 ₴",
+        "price_old": "247.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Каша вівсяна з полуницею та кокосовим молоком миттєвого приготування органічна Bi Food 40 г",
+        "price_new": "29.00 ₴",
+        "price_old": "69.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Чай натуральний Чорниця \"BERRY DRINK\" UDIDA 48 г",
+        "price_new": "85.00 ₴",
+        "price_old": "99.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Чай натуральний Малина \"BERRY DRINK\" UDIDA 48 г",
+        "price_new": "85.00 ₴",
+        "price_old": "99.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Кава мелена класична 100% АРАБІКА Luce 250 г",
+        "price_new": "399.00 ₴",
+        "price_old": "489.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Кава мелена без кофеїну 100% АРАБІКА Luce 250 г",
+        "price_new": "399.00 ₴",
+        "price_old": "473.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Горошок зелений Spela 350 г",
+        "price_new": "51.00 ₴",
+        "price_old": "64.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Грейпфрут",
+        "price_new": "91.00 ₴",
+        "price_old": "105.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Мікс горіхів з корицею Mille 75 г",
+        "price_new": "69.00 ₴",
+        "price_old": "88.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Мікс горіхів з Гімалайської сіллю Mille 75 г",
+        "price_new": "69.00 ₴",
+        "price_old": "88.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Узвар \"Український\" Sergio 150 г",
+        "price_new": "59.00 ₴",
+        "price_old": "75.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Тамаринд 500 г",
+        "price_new": "224.00 ₴",
+        "price_old": "252.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Шоколад чорний 77% Healthy Choice 65 г",
+        "price_new": "129.00 ₴",
+        "price_old": "146.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Родзинки золотисті 100 г",
+        "price_new": "17.00 ₴",
+        "price_old": "23.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Арахіс бланшований смажений 100 г",
+        "price_new": "14.00 ₴",
+        "price_old": "20.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Молоко згущене кокосове з цукром Nature's Charm 200 г",
+        "price_new": "55.00 ₴",
+        "price_old": "110.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Родзинки сині тіньові 100 г",
+        "price_new": "22.00 ₴",
+        "price_old": "34.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Мед Степи Побужжя 270 г",
+        "price_new": "79.00 ₴",
+        "price_old": "110.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Мед Степи Побужжя 630 г",
+        "price_new": "145.00 ₴",
+        "price_old": "210.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Папір рисовий 5 аркушів Katana 45 г",
+        "price_new": "53.00 ₴",
+        "price_old": "66.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Мед Савранський Ліс 270 г",
+        "price_new": "79.00 ₴",
+        "price_old": "110.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Мед Савранський Ліс 630 г",
+        "price_new": "145.00 ₴",
+        "price_old": "210.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Драже шоколадне \"Лісовий горіх в гречаному шоколаді\" Healthy Choice 90 г",
+        "price_new": "139.00 ₴",
+        "price_old": "165.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Напій кокосовий органічний Dr. Antonio Martins 1 л",
+        "price_new": "139.00 ₴",
+        "price_old": "160.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Пюре манго Kesar Doyal 850 г",
+        "price_new": "199.00 ₴",
+        "price_old": "230.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Борошно каштанове Manteca 225 г",
+        "price_new": "199.00 ₴",
+        "price_old": "244.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Брауні асорті, подарунковий набір &JOY 250 г",
+        "price_new": "315.00 ₴",
+        "price_old": "340.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Драже шоколадне \"Фісташка в малиновому шоколаді\" Healthy Choice 90 г",
+        "price_new": "109.00 ₴",
+        "price_old": "165.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Кунжут білий 100 г",
+        "price_new": "17.00 ₴",
+        "price_old": "27.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Малина сушена ціла 100 г",
+        "price_new": "89.00 ₴",
+        "price_old": "106.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Вода мінеральна негазована Vittel 1 л",
+        "price_new": "29.00 ₴",
+        "price_old": "36.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Насіння льону 130 г",
+        "price_new": "15.00 ₴",
+        "price_old": "20.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Печиво з граноли Mille 30 г",
+        "price_new": "19.00 ₴",
+        "price_old": "29.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Джекфрут сушений без цукру Преміум 100 г",
+        "price_new": "73.00 ₴",
+        "price_old": "94.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    },
+    {
+        "name": "Гранола медова класична Oats&Honey 500 г",
+        "price_new": "99.00 ₴",
+        "price_old": "120.00 ₴",
+        "image": "",
+        "discount": "",
+        "is_available": "В наявностi",
+        "discount_days": ""
+    }
+]
